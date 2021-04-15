@@ -1,0 +1,121 @@
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+  }
+
+  p{
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+  }
+
+  .txt-format{
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+  }
+  
+
+body {
+    width: 1500px;
+    height: 2444px;
+    position: relative;
+}
+
+
+/*CABEÇALHO*/
+.masthead{
+    background: linear-gradient(186.3deg, #707070 70%,#ffffff 50%);
+    border: 1px solid #707070;
+    position: relative;
+    height: 399px;
+}
+
+
+/*TITÚLO 1*/
+.site-title-one{
+    margin: 0px;
+    position: absolute;
+    top: 69px;
+    left: 635px;
+    width: 227px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 20px/24px Helvetica;
+}
+
+/*TITÚLO 2*/
+.site-title-two{
+    margin: 0px;
+    position: absolute;
+    top: 92px;
+    left: 571px;
+    width: 358px;
+    height: 48px;
+    text-align: center;
+    font: normal normal bold 40px/49px Helvetica;
+}
+
+/*TITÚLO 3*/
+.site-title-three{
+    margin: 0px;
+    position: absolute;
+    top: 164px;
+    left: 476px;
+    width: 548px;
+    height: 16px;
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica;
+}
+
+/*LINKS*/
+a .styled{
+    position: absolute;
+    top: 230px;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+
+.styled-buttons-one{
+    left: 371px;
+}
+.styled-buttons-two{
+    left: 571px;
+}
+.styled-buttons-three{
+    left: 771px;
+}
+.styled-buttons-four{
+    left: 971px;
+}
+
+
+
+.main-content{
+   
+}
+
+.sidebar{
+    
+}
+
+.twinOne{
+    
+}
+
+.twinTwo{
+    
+}
+
+.colophon{
+    
+}
